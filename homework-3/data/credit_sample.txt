@@ -1,0 +1,7 @@
+lastname,age,debt,occupation
+Adrianov,25,30000,artist
+McKinney,25,30000,programmer
+Johnson,25,30000,salesman
+Sanchez,25,30000,artist
+King,25,30000,president
+Thompson,25,30000,artist
